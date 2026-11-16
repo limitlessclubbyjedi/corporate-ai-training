@@ -1,0 +1,37 @@
+[
+  {
+    "path": "index.html",
+    "matches_deployment": true,
+    "bytes": 169981
+  },
+  {
+    "path": "styles.css",
+    "matches_deployment": true,
+    "bytes": 38004
+  },
+  {
+    "path": "gallery.css",
+    "matches_deployment": true,
+    "bytes": 6875
+  },
+  {
+    "path": "gallery.js",
+    "matches_deployment": true,
+    "bytes": 3605
+  },
+  {
+    "path": "en/index.html",
+    "matches_deployment": true,
+    "bytes": 132852
+  },
+  {
+    "path": "en/styles.css",
+    "matches_deployment": true,
+    "bytes": 38518
+  },
+  {
+    "path": "en/cases/falcon.html",
+    "matches_deployment": true,
+    "bytes": 8974
+  }
+]

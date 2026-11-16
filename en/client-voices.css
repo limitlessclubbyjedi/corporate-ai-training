@@ -1,0 +1,51 @@
+/* Client voices (video testimonials) + case study pages. Uses the site's tokens from styles.css. */
+.client-voices {
+  padding: clamp(72px, 8vw, 118px) clamp(22px, 5vw, 70px);
+  border-top: 1px solid var(--line-light);
+  background: var(--navy-2);
+  color: var(--white);
+}
+.client-voices__inner { max-width: var(--page); margin: 0 auto; }
+.client-voices__intro { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0; max-width: 760px; }
+.client-voices__intro h2 { margin: 16px 0 18px; font-family: var(--font-display), sans-serif; font-size: clamp(32px, 4vw, 54px); line-height: 1.15; }
+.client-voices__intro > p:not(.signal-label) { margin: 0; color: rgba(255, 255, 255, 0.72); font-size: 17px; line-height: 1.8; }
+.client-voices__case { display: inline-block; margin-top: 18px; color: var(--citron); font-family: var(--font-display), sans-serif; font-weight: 700; font-size: 15px; }
+.client-voices__case + .client-voices__case { margin-left: 18px; }
+.client-voices__grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 22px; margin-top: 42px; }
+@media (max-width: 1080px) { .client-voices__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .client-voices__grid { grid-template-columns: minmax(0, 1fr); } }
+.client-voices__card { margin: 0; min-width: 0; display: flex; flex-direction: column; }
+.client-voices__video { position: relative; overflow: hidden; aspect-ratio: 9 / 16; border: 1px solid rgba(255, 255, 255, 0.24); background: #020816; }
+.client-voices__video::before { position: absolute; z-index: 1; top: 0; left: 0; width: 56px; height: 4px; background: var(--citron); content: ""; pointer-events: none; }
+.client-voices__video video { display: block; width: 100%; height: 100%; object-fit: cover; }
+.client-voices__lang { position: absolute; right: 10px; top: 12px; z-index: 1; padding: 4px 9px; background: rgba(2, 8, 22, 0.72); color: rgba(255, 255, 255, 0.85); font-size: 11px; font-weight: 600; letter-spacing: 0.02em; pointer-events: none; }
+.client-voices__card figcaption { padding-top: 16px; }
+.client-voices__meta { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin: 0; font-family: var(--font-display), sans-serif; font-size: 12px; font-weight: 700; text-transform: uppercase; color: var(--citron); }
+.client-voices__meta b { color: var(--white); font-size: 15px; }
+.client-voices__card blockquote { margin: 10px 0 8px; font-family: var(--font-display), sans-serif; font-size: 19px; font-weight: 600; line-height: 1.4; }
+.client-voices__role { margin: 0; color: rgba(255, 255, 255, 0.62); font-size: 14px; }
+.client-voices__th { margin: 10px 0 0; color: rgba(255, 255, 255, 0.5); font-family: "IBM Plex Sans Thai", var(--font-body), sans-serif; font-size: 13.5px; line-height: 1.7; }
+.training-gallery__case { display: inline-block; margin-top: 6px; color: var(--orange); font-weight: 700; font-size: 14px; }
+
+/* case study page */
+.case-page { background: var(--paper); }
+.case-top { position: sticky; top: 0; z-index: 10; display: flex; justify-content: space-between; align-items: center; gap: 14px; padding: 16px clamp(18px, 4vw, 48px); background: var(--navy); color: var(--white); }
+.case-top__brand { font-family: var(--font-display), sans-serif; font-weight: 700; font-size: 15px; }
+.case-top__cta { display: inline-block; padding: 10px 16px; background: var(--citron); color: var(--navy); font-family: var(--font-display), sans-serif; font-weight: 700; font-size: 14px; }
+.case { max-width: 820px; margin: 0 auto; padding: clamp(40px, 6vw, 80px) clamp(18px, 4vw, 32px) 80px; }
+.case h1 { margin: 6px 0 16px; font-family: var(--font-display), sans-serif; font-size: clamp(32px, 5vw, 54px); line-height: 1.12; color: var(--navy); }
+.case__dek { margin: 0 0 28px; color: var(--muted); font-size: 19px; line-height: 1.7; }
+.case__hero { margin: 0 0 36px; }
+.case__hero img, .case__body figure img { display: block; width: 100%; height: auto; }
+.case__body h2 { margin: 42px 0 12px; font-family: var(--font-display), sans-serif; font-size: clamp(24px, 3vw, 32px); line-height: 1.25; color: var(--navy); }
+.case__body p, .case__body li { font-size: 17.5px; line-height: 1.8; }
+.case__body ul { padding-left: 22px; }
+.case__body blockquote { margin: 26px 0; padding: 18px 22px; border-left: 4px solid var(--orange); background: var(--white); font-family: var(--font-display), sans-serif; font-size: 21px; font-weight: 600; line-height: 1.45; color: var(--navy); }
+.case__body figure { margin: 28px 0; }
+.case__voices { margin-top: 56px; padding: 32px clamp(16px, 3vw, 28px); background: var(--navy-2); color: var(--white); }
+.case__voices .client-voices__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 18px; }
+@media (max-width: 560px) { .case__voices .client-voices__grid { grid-template-columns: minmax(0, 1fr); } }
+.case__cta { margin-top: 48px; padding: 32px; border: 1px solid var(--line); background: var(--white); }
+.case__cta h2 { margin: 0 0 8px; font-family: var(--font-display), sans-serif; color: var(--navy); }
+.case__cta p { margin: 0 0 18px; color: var(--muted); }
+.case__body blockquote cite { display: block; margin-top: 10px; font-family: var(--font-body), sans-serif; font-size: 14px; font-style: normal; font-weight: 500; color: var(--muted); }

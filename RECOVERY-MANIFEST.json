@@ -1,0 +1,1560 @@
+{
+  "deploymentId": "dpl_7AQ5pXioTpXEumy3wJTB67sBPATc",
+  "website": "https://corporate-ai-training-seven.vercel.app/",
+  "files": [
+    {
+      "path": "src/.vercelignore",
+      "uid": "78ec20cccba11ae4824f46476d1453a66bb0dc76"
+    },
+    {
+      "path": "src/assets/client-logos/bts.svg",
+      "uid": "7ed8292d47e07d56a297e3ef3745083f7523bed1"
+    },
+    {
+      "path": "src/assets/client-logos/chia-tai.png",
+      "uid": "c2a3cc56d5442088d008336738ac6d0fd0ec2c49"
+    },
+    {
+      "path": "src/assets/client-logos/fern.png",
+      "uid": "9cefa528cfde7d7d9b26f02d519530d511701836"
+    },
+    {
+      "path": "src/assets/client-logos/jasmine.svg",
+      "uid": "2459331f9328655510d07103cab13efa29af8887"
+    },
+    {
+      "path": "src/assets/client-logos/samsung.png",
+      "uid": "67f1653f13324848c57d0daa8cfb905772591294"
+    },
+    {
+      "path": "src/assets/client-logos/smile.png",
+      "uid": "f3f6ac39a4566e30e8abdbc8b79e9cb03684cb1b"
+    },
+    {
+      "path": "src/assets/client-logos/tgm.svg",
+      "uid": "5935f4ba24fe26b4a260d93cb3857ac8881a7744"
+    },
+    {
+      "path": "src/assets/favicon.png",
+      "uid": "154e4afb459110748d3b2ebad941cd5dd0c6baa2"
+    },
+    {
+      "path": "src/assets/fonts/IBMThai-Bold.ttf",
+      "uid": "502741df175d39754c4b9190523cceb7c5539cdf"
+    },
+    {
+      "path": "src/assets/fonts/IBMThai-Regular.ttf",
+      "uid": "603fcce5c2d5900bbe31b6fa17a4881e613bd585"
+    },
+    {
+      "path": "src/assets/gallery/boutique-01-full.webp",
+      "uid": "1880642a43c5814d63c15114cb0d9876e3a80aa0"
+    },
+    {
+      "path": "src/assets/gallery/boutique-01-thumb.webp",
+      "uid": "ec50256f7bb869925be221a36d041a26dbf9a784"
+    },
+    {
+      "path": "src/assets/gallery/boutique-02-full.webp",
+      "uid": "e55dc250ef5177ee2f7e46cdbbc609a7cda33ce3"
+    },
+    {
+      "path": "src/assets/gallery/boutique-02-thumb.webp",
+      "uid": "6b4d3791f7776ee1070bacd3d87f5bdb0b59abc0"
+    },
+    {
+      "path": "src/assets/gallery/boutique-03-full.webp",
+      "uid": "cc146639db55a4caf49ac1b163439aa3cab66a67"
+    },
+    {
+      "path": "src/assets/gallery/boutique-03-thumb.webp",
+      "uid": "c11c8eacfd5ac9874038a5151960fb003b4270df"
+    },
+    {
+      "path": "src/assets/gallery/boutique-04-full.webp",
+      "uid": "475a7626dbc66b8e15e24b2c7fd5a4a802d8e44c"
+    },
+    {
+      "path": "src/assets/gallery/boutique-04-thumb.webp",
+      "uid": "7fcf5f0ad190b1b3fdac3eeff6c6de3199b5c619"
+    },
+    {
+      "path": "src/assets/gallery/boutique-05-full.webp",
+      "uid": "2c2413e98ac6c0c34ef8eeccfa897839b6fe1c07"
+    },
+    {
+      "path": "src/assets/gallery/boutique-05-thumb.webp",
+      "uid": "3b4514835194c52185961b541b49e210b646f3ed"
+    },
+    {
+      "path": "src/assets/gallery/boutique-06-full.webp",
+      "uid": "ac6b657ffb115223074e4cf79dc677bb2e233757"
+    },
+    {
+      "path": "src/assets/gallery/boutique-06-thumb.webp",
+      "uid": "c6c133431eaff50bfc852ee860e7dbdfc569ea90"
+    },
+    {
+      "path": "src/assets/gallery/boutique-07-full.webp",
+      "uid": "6dddde128452be8ebaedea0be4ae667d87efe51b"
+    },
+    {
+      "path": "src/assets/gallery/boutique-07-thumb.webp",
+      "uid": "e205398c1e220c6429a8b53b2ba98dcc3c95b6da"
+    },
+    {
+      "path": "src/assets/gallery/boutique-08-full.webp",
+      "uid": "33a479cad4f9608f49a48952052222a17980f1c5"
+    },
+    {
+      "path": "src/assets/gallery/boutique-08-thumb.webp",
+      "uid": "191455f0b7d461d0552f2847221064ca83583f14"
+    },
+    {
+      "path": "src/assets/gallery/boutique-09-full.webp",
+      "uid": "17fe547338af0e2305269164368e5e0fe6758618"
+    },
+    {
+      "path": "src/assets/gallery/boutique-09-thumb.webp",
+      "uid": "eee3ffeaf1e214841a1503a29b8042f382f08683"
+    },
+    {
+      "path": "src/assets/gallery/boutique-10-full.webp",
+      "uid": "e315ade0ab09707d215e2ba9ffb3911c258caa52"
+    },
+    {
+      "path": "src/assets/gallery/boutique-10-thumb.webp",
+      "uid": "03c8140fb7661c1c811d71942b82744206a4219d"
+    },
+    {
+      "path": "src/assets/gallery/boutique-review-full.jpg",
+      "uid": "a39399a8c7f540a3c5a77fc462dcb996493c23e3"
+    },
+    {
+      "path": "src/assets/gallery/bts-01-full.webp",
+      "uid": "3cafe962e8dd9af58396802563d09cc0a76da858"
+    },
+    {
+      "path": "src/assets/gallery/bts-01-thumb.webp",
+      "uid": "91ecfe0e3fc05982152f2ca82f50417f1c6d816c"
+    },
+    {
+      "path": "src/assets/gallery/bts-02-full.webp",
+      "uid": "287f0a3aae40b25df2d8509aad5b138907927262"
+    },
+    {
+      "path": "src/assets/gallery/bts-02-thumb.webp",
+      "uid": "6c7d4b770153c1644acbf3d39a0a94c3cce6614b"
+    },
+    {
+      "path": "src/assets/gallery/bts-03-full.webp",
+      "uid": "7b6c55f5d9d4829bd7f4b7c02abaae8e75e4a388"
+    },
+    {
+      "path": "src/assets/gallery/bts-03-thumb.webp",
+      "uid": "d3fc74ec48140bd9db409a3b36ed3867e665dcca"
+    },
+    {
+      "path": "src/assets/gallery/bts-04-full.webp",
+      "uid": "89062fd01e862a61570d7212c58c3bb709002370"
+    },
+    {
+      "path": "src/assets/gallery/bts-04-thumb.webp",
+      "uid": "fb04afd4ef87b4475dd3aa457a28bd66738461ec"
+    },
+    {
+      "path": "src/assets/gallery/bts-05-full.webp",
+      "uid": "3db1807fde6e4fd0b987389f2ccbc78e18a3c41c"
+    },
+    {
+      "path": "src/assets/gallery/bts-05-thumb.webp",
+      "uid": "81643277d3105a29bb177f995536d31bf54b0251"
+    },
+    {
+      "path": "src/assets/gallery/bts-06-full.webp",
+      "uid": "dbc47bbd2d050d5c5a13a1cd1594a029892d17a5"
+    },
+    {
+      "path": "src/assets/gallery/bts-06-thumb.webp",
+      "uid": "e65ed982dabf38802f4c8ca3955ca00ea2015315"
+    },
+    {
+      "path": "src/assets/gallery/bts-07-full.webp",
+      "uid": "39f6f1f320dbeb863a97da00fdc80a68f9594656"
+    },
+    {
+      "path": "src/assets/gallery/bts-07-thumb.webp",
+      "uid": "2767827f6d38b926b9c4e4c414900ff27d6d1473"
+    },
+    {
+      "path": "src/assets/gallery/bts-08-full.webp",
+      "uid": "b2ab597f2c9617299d67da6fcae8777ffb924d3f"
+    },
+    {
+      "path": "src/assets/gallery/bts-08-thumb.webp",
+      "uid": "4b19b93735ea5c302eb4d97305de321dd635bec7"
+    },
+    {
+      "path": "src/assets/gallery/bts-09-full.webp",
+      "uid": "3d430b8f2249e39563955f044ae93630097d5f57"
+    },
+    {
+      "path": "src/assets/gallery/bts-09-thumb.webp",
+      "uid": "0370030bf4800f3f78fb584fd5b684279920d96b"
+    },
+    {
+      "path": "src/assets/gallery/bts-10-full.webp",
+      "uid": "1c27ee601c62da57528afe28c5641ba9941f53dd"
+    },
+    {
+      "path": "src/assets/gallery/bts-10-thumb.webp",
+      "uid": "7d4c19db39d11eae69f4f725cea2771bc57d330b"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-01-full.webp",
+      "uid": "f0393303fcff4af52c108535c167fc1bffcecd7a"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-01-thumb.webp",
+      "uid": "35b691bbebe887886c2be1a758135b5b18f5b7fb"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-02-full.webp",
+      "uid": "8f74eaa68a449de4ac772663b9deff306cbca76a"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-02-thumb.webp",
+      "uid": "cc2f7cde38ee7119bbdd39dfb2d334b6cced8dc0"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-03-full.webp",
+      "uid": "ffef35f352556812bf4c351e81e9cc533a40e411"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-03-thumb.webp",
+      "uid": "f7bf64fcd2d3aea725b73076b2d9e6fb78e0a95b"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-04-full.webp",
+      "uid": "cc63a14cfa1dbe69d6aad261264a0747e49ad5e0"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-04-thumb.webp",
+      "uid": "057f60410215ca868cd8fe7379a6e5b585819008"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-05-full.webp",
+      "uid": "d9ed7d2a4342a600fc9a79fa2c062f217b684f0c"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-05-thumb.webp",
+      "uid": "c6ff943cff706ffac0a69d0094dddda05cfe174d"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-06-full.webp",
+      "uid": "75627d1ec32672110cd54bbc8ae76c7ac8f90925"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-06-thumb.webp",
+      "uid": "e73a21b5755e4e6464667f640807f43a7bd4df1c"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-07-full.webp",
+      "uid": "e631864064ce118a0f626866d815695239f09003"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-07-thumb.webp",
+      "uid": "bbe33adf69b0c44144c24b03c11e6cafcfdb246e"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-08-full.webp",
+      "uid": "0182ef6c288f60affe330f80021aba691d62b46c"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-08-thumb.webp",
+      "uid": "1b38b462b8a6e2cc908f794bb5445bd83ec34459"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-09-full.webp",
+      "uid": "ad101f8a498794c8b29338006bdc983ba33f7ccc"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-09-thumb.webp",
+      "uid": "010b52155a6ef88eafd2156262fd637d63e267d0"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-10-full.webp",
+      "uid": "ab9b2426b7908d60cd5a3f318974702efe5d8a8a"
+    },
+    {
+      "path": "src/assets/gallery/chia-tai-10-thumb.webp",
+      "uid": "ddb241c3de51e3387a42b219a757e603701a1f70"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-17-full.webp",
+      "uid": "5cd36ff1e5ce6832bb49d49a3b8c90032fe1a2e7"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-17-thumb.webp",
+      "uid": "1fa69b2900470ee43691151050811a0bb43910f5"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-18-full.webp",
+      "uid": "f1a2ee94510db7c886f695ea20a8ed7bdafbcfe2"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-18-thumb.webp",
+      "uid": "80f7276c98978554b956923384d78264f172d436"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-19-full.webp",
+      "uid": "3868ae3466f66b69d6f4c68bfd158447ea92a2ef"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-19-thumb.webp",
+      "uid": "0f460f11a9988d82ca787c04d3c26cf1aad52988"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-23-full.webp",
+      "uid": "4d7aaa1660e51ed6c9f36fa90023472ef27c593e"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-23-thumb.webp",
+      "uid": "47ae9eefec057e57f24c8d977490dee4ac51d51f"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-26-full.webp",
+      "uid": "f14718c5cfad6b8d0b5a50d5518322f6d4d30e11"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-26-thumb.webp",
+      "uid": "e68fd2e4f365bc1aa43273405512e4bb8727d2df"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-54-full.webp",
+      "uid": "f630ea084afb308c573de1c4328541ac4f525658"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-54-thumb.webp",
+      "uid": "080cc0f867e97a87952314a684946fd5de7e7360"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-56-full.webp",
+      "uid": "e25704ab2b9fa42c0b42850e6a7eb9f06b2b89c5"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-56-thumb.webp",
+      "uid": "ba801fa75bb15bac3818f367e2d6f297729fe2a7"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-58-full.webp",
+      "uid": "1c34955c506f59afeefa97b73ab51813b0d9ebf1"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-58-thumb.webp",
+      "uid": "82ee719ce354da87162db329dfddefe6b9ca1d11"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-61-full.webp",
+      "uid": "289f4e38254ba7398772a88ece26dde020625ac9"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-61-thumb.webp",
+      "uid": "a9fdd1c08cb64880f385587959294d922ffcf376"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-67-full.webp",
+      "uid": "fe1ca41e9045c53dfcce451b7ac1b480e85800ac"
+    },
+    {
+      "path": "src/assets/gallery/exp-fern-67-thumb.webp",
+      "uid": "85dce4814cbb0d355fa5a36d3d86b09ec0894f26"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-03-full.webp",
+      "uid": "03ea039b7fbdcc4063b10824e5f887c1cb1de93e"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-03-thumb.webp",
+      "uid": "70d96dc11178c85973b912066c8054f73dd2da77"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-07-full.webp",
+      "uid": "6047dc9c61ec7805d84bd68f4617e5b156ae2d84"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-07-thumb.webp",
+      "uid": "46b7a3d03cdd107b3f9a113ea48142e2b6e99f7b"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-12-full.webp",
+      "uid": "d4a7f702eab83ac60b24b994e3f4323ba55ea368"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-12-thumb.webp",
+      "uid": "827268bd299662a4626fbd8a0aa228d60248a71d"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-15-full.webp",
+      "uid": "4099dd03e38f0fe98cc775371b665b04628cf3f9"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-15-thumb.webp",
+      "uid": "f36a43c79525e0284fcb86fa19232671f88240ac"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-17-full.webp",
+      "uid": "ef6b484fbb6594a1f5aee940ca6c88c4ad68ec7d"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-17-thumb.webp",
+      "uid": "39d14e99a9c35957f0ebcea0b51dfe55385e920c"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-18-full.webp",
+      "uid": "b51224b3fe9c7789bc9e5440c117f75879da7c2f"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-18-thumb.webp",
+      "uid": "ed8e1b61a10c449613f675e0bc71f5ad9a5e970f"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-21-full.webp",
+      "uid": "b6ecb5e716bb542041f9cebe72606c54b894267d"
+    },
+    {
+      "path": "src/assets/gallery/exp-hht-21-thumb.webp",
+      "uid": "c14cd50671c46bffc4c7ceda1f44b791d4ff1b4a"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-01-full.webp",
+      "uid": "0f6405b1517e1d8e61fa125c47e94aa7a2a5232e"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-01-thumb.webp",
+      "uid": "45dc25ff5a69a4f38eb7fde7f6e3a3f77432e56c"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-03-full.webp",
+      "uid": "ea60e11be053d9b0ea562fefd53ecb41f6311e45"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-03-thumb.webp",
+      "uid": "3c640b190a3c50dab123b31400f14571c9a1dd26"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-07-full.webp",
+      "uid": "0e23a5b58297a037def75f897eac63d6c21fe8d4"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-07-thumb.webp",
+      "uid": "2d23b2001e175eb10a390ba21f3c14b294c1289b"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-12-full.webp",
+      "uid": "7c701ae8998328ebf3fc614a951983e98d66e6ed"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-12-thumb.webp",
+      "uid": "f27a950ba9b16611d3f50fc30e282932728df2eb"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-13-full.webp",
+      "uid": "25260aec37f2d15a55ce37dad930fc4ce4258257"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-13-thumb.webp",
+      "uid": "a00b579e7ad849dc1ca96efcdfee176f9c79c136"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-24-full.webp",
+      "uid": "61520d08e5a0cf694dc63154eeeff9b6228b5481"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-24-thumb.webp",
+      "uid": "ec626da9c297a1fdd5f5676e7d739906256e0631"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-25-full.webp",
+      "uid": "2e91254e53f9e48c751c233f8bf67942b697ec79"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-25-thumb.webp",
+      "uid": "73f9b7783d6405c24a0ecdb8ce13aa6a1f997a9b"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-54-full.webp",
+      "uid": "bb09ea9b40f69100d576b94d35bbe49bef176eb7"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-54-thumb.webp",
+      "uid": "c0ad2e326999a09135bca2cfebc450a4a92a238b"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-57-full.webp",
+      "uid": "e7a952b2b1ca81b7b8034e215eb7cb3aae1f5b15"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-57-thumb.webp",
+      "uid": "89546b78843c2fee17c108613965a357b481e953"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-58-full.webp",
+      "uid": "7950dbfe23a3aec579a907091b41c8279713948c"
+    },
+    {
+      "path": "src/assets/gallery/exp-jtk-58-thumb.webp",
+      "uid": "03e07be6df5289af0ae95d207cf1a1279a6d10cd"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-01-full.webp",
+      "uid": "6546636398e9d04daa98eae02f9869e042b09f2c"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-01-thumb.webp",
+      "uid": "bea07e1e77eac5a72d246cb5eebf43f0e1f45e1e"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-02-full.webp",
+      "uid": "44d7194998fe63f76566f601864e06e8eb8e39ab"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-02-thumb.webp",
+      "uid": "7f890027bdc1de592aef7b5a13e390230e7764cd"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-03-full.webp",
+      "uid": "945083bff48d17644d7eae61ccb650906bff4143"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-03-thumb.webp",
+      "uid": "6262cb58cac15f9525ce1cefb61dbceccfc2627d"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-12-full.webp",
+      "uid": "d9a3962c4b7b18b6228c73e6839468e76facf300"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-12-thumb.webp",
+      "uid": "9fb20db6a48d9b656a3c1a05810092c4ba09b05e"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-17-full.webp",
+      "uid": "51e495518b35ff801965edf4b6ca456cfd117f29"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-17-thumb.webp",
+      "uid": "974e09a0194ffd31176fce1dcd1973127eb17f38"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-18-full.webp",
+      "uid": "b8f20966923e198ff7ba5bc6ccc67ec91f8968db"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-18-thumb.webp",
+      "uid": "5b67f6772dc7d15aed2cb217120c01e17e57e23a"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-19-full.webp",
+      "uid": "377ac110cfc19e12fb87142c1ba77065d6be0ff9"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-19-thumb.webp",
+      "uid": "6be891cd16c2401875d82ea733d75cf1aac777e6"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-22-full.webp",
+      "uid": "e3989026cefeab88b94048c5a360810ad85b8161"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-22-thumb.webp",
+      "uid": "2ba363a4c9869f2dca0cb61c81f9b8679eed57a2"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-23-full.webp",
+      "uid": "bebf10302a4d9e5d3b84a0904fa1dfb79dd6bbd0"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-23-thumb.webp",
+      "uid": "b8556a725ffc0c60d82ce1f3e85a6494b33b7649"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-24-full.webp",
+      "uid": "3ff1a73a13fc3967f6ac60c32b74341a6b3b4967"
+    },
+    {
+      "path": "src/assets/gallery/exp-kay-24-thumb.webp",
+      "uid": "1a231a76f4a3dcc7079ec6b7d72e3ec3e9dc4400"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-04-full.webp",
+      "uid": "079b1a48c42dcdaafc795cd1cf68d43c232c09b6"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-04-thumb.webp",
+      "uid": "cb507bdbfbbf78e95bd4b784772dac27b7faf2cd"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-05-full.webp",
+      "uid": "ca2145c65912e62cd7086c2784bf01e5df157580"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-05-thumb.webp",
+      "uid": "47715d0496b19c1c9720b06d6787668884fe5a33"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-09-full.webp",
+      "uid": "a3f360b3c3b1fe8bc8b1afd9b089c5171388f1cf"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-09-thumb.webp",
+      "uid": "3825870014b5526d0402942eaca88a38ae179041"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-11-full.webp",
+      "uid": "5b54a5c60507c305ecde06fcc4a19fe40ce0f7c9"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-11-thumb.webp",
+      "uid": "7f29971504c4719688bec494a644c55c58f7d31c"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-15-full.webp",
+      "uid": "cfe336175c59b920d8e1f3141cb977daaebb668b"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-15-thumb.webp",
+      "uid": "edb315e022c2497ea57a9cbc137b614b48ae959e"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-16-full.webp",
+      "uid": "0974c534ec250385453f4744259a3b8b4987773b"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-16-thumb.webp",
+      "uid": "3bfc81a2c5efc92449e8fe59c1058e3f1ea446c2"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-20-full.webp",
+      "uid": "11563c348fef2f5fcac408129920515eec608e4b"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-20-thumb.webp",
+      "uid": "890c8ca3a398c94ac12e79b3e37fef30e103d0a1"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-21-full.webp",
+      "uid": "c50e112560e543f59b93b143cef26e23859fe7cf"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-21-thumb.webp",
+      "uid": "7ddb20706b62ece96cdb333bb1ef019c5dfe7398"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-22-full.webp",
+      "uid": "c160da7fa8d461d0037ffb31bba4c88d14419b6d"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-22-thumb.webp",
+      "uid": "14b56c101a5485f7fc6293aa690a1ed17e1ad478"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-23-full.webp",
+      "uid": "ba5061cfb8954d7a606a289b2e143d0a503751c5"
+    },
+    {
+      "path": "src/assets/gallery/exp-mdrt-23-thumb.webp",
+      "uid": "a1c4d235250bdedff195c60ab5889292833f9a99"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-02-full.webp",
+      "uid": "9d9195929889239b14c1d66b0a75c14229d6c2fc"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-02-thumb.webp",
+      "uid": "d9dbed276e4ee9ad3f00dc9855ee8d58352d002a"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-03-full.webp",
+      "uid": "06be179d69aea9ad426f96db84b38aa765b835af"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-03-thumb.webp",
+      "uid": "147ed17596ab3182c9c1c2f75579971684118208"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-04-full.webp",
+      "uid": "60126de0763ee5c1ce2b99c41b0ad07ce0fc1932"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-04-thumb.webp",
+      "uid": "2d926d8726fa24512486f20d54ab84d80d7fe4cd"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-05-full.webp",
+      "uid": "73ce0c3e0643ce416a07a80538ab4892dbc1c22a"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-05-thumb.webp",
+      "uid": "6d973751e574790f90375f22350f55e7520f77fb"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-07-full.webp",
+      "uid": "94a303378665869996de0077c26a66f4c6aad8e9"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-07-thumb.webp",
+      "uid": "db39ab81010bbc0d4d29a444bb4766f66556727d"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-08-full.webp",
+      "uid": "c18cb81516e6bc9f84744c687128022831acc099"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-08-thumb.webp",
+      "uid": "c8b0966c40de7346c698d3a827d5f3df9fe37cbb"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-10-full.webp",
+      "uid": "c6c023007912831add11896469bec52fd47bf85a"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-10-thumb.webp",
+      "uid": "3066e434cfe78420caf5178ce16258cc04a9c98d"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-11-full.webp",
+      "uid": "30277a2ccc157c19a0c973b6ff252eef5942bb15"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-11-thumb.webp",
+      "uid": "2c3e2d0c0335652e8fad3f4cadfca564fa2eaba3"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-19-full.webp",
+      "uid": "9b29e635c6cba770b381e4acde1cd42e5fa1c86e"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-19-thumb.webp",
+      "uid": "ad76b96e287013e8a01b23ea32f1d7e4a1a03e0a"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-20-full.webp",
+      "uid": "112a7476e28411237a07ddcb0f6536f81d676941"
+    },
+    {
+      "path": "src/assets/gallery/exp-mtl-20-thumb.webp",
+      "uid": "e882a1396b044463c65b60f733c2d5ec98d08aae"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-01-full.webp",
+      "uid": "4aa34032d35a744c55ec4bf92516625d6c9087de"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-01-thumb.webp",
+      "uid": "3172678aca02fa8e55471e33afec8b28663c284b"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-03-full.webp",
+      "uid": "55e2f1d1559fbe01a24ca83f2e9b94ea25a43fe7"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-03-thumb.webp",
+      "uid": "3f547063cd81a8c020594c438f1c49fa261ec7a0"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-04-full.webp",
+      "uid": "a6c3ecfd019eac4f4b5a7fe176c907f9282abf2d"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-04-thumb.webp",
+      "uid": "7b525746b695e161463d5fdf9b178e06a812c445"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-08-full.webp",
+      "uid": "eb26fb9a3fcb15583e52ae470d208c5b2b05f611"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-08-thumb.webp",
+      "uid": "1b518477a6d165e26a1a0082a4ffce71af5a36f6"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-10-full.webp",
+      "uid": "a50b84f3eaaf5315bd0d8aca0443d1ee4bf5c191"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-10-thumb.webp",
+      "uid": "3d8db4a1c861d4ebf4cccccff2bd6bb4c4695ac7"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-11-full.webp",
+      "uid": "6f03dadac952e3e13135b345638daf768df6fabd"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-11-thumb.webp",
+      "uid": "c59b14f14c8c596e9d3447b60de32bb6bfd93fac"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-12-full.webp",
+      "uid": "b0a2c407fa06d21d23f8fbd86fa063bd9d3f8b3b"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-12-thumb.webp",
+      "uid": "06845c7ff20023a8ae61bd969e36b62151513ccb"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-19-full.webp",
+      "uid": "ff5a698867a755166af9e77c5068d2dd66947354"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-19-thumb.webp",
+      "uid": "c9c8409e79267eec666b94ffd3cef672fde8eae2"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-21-full.webp",
+      "uid": "29e58a2f08251f6db42f47687f44090e6a3e2cd4"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-21-thumb.webp",
+      "uid": "156a976d64c2453918fd36948d077767e663b02d"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-24-full.webp",
+      "uid": "34c2e9dd4f13d87963a376d614f12600bd7122ad"
+    },
+    {
+      "path": "src/assets/gallery/exp-poultry-24-thumb.webp",
+      "uid": "a3a5ec4644f6e1fc008d5a9d76ff87cbca56a5a7"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-01-full.webp",
+      "uid": "673f806291fcde3e90780a91b79921f1b1029e28"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-01-thumb.webp",
+      "uid": "39146a19aef8b59fdca15f7f47c5c9eb64ad6f04"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-02-full.webp",
+      "uid": "6cd72efecca31bf54c9c4c8fc23de7c4f721967a"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-02-thumb.webp",
+      "uid": "d678212204655f8a514b2d6723de7d5ba4ff35b1"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-08-full.webp",
+      "uid": "aadf341059e4d47d7b1aa034b99e7dc0b4c78b07"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-08-thumb.webp",
+      "uid": "76a51b880c0e24e3f182d424b0c69444b79cb349"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-10-full.webp",
+      "uid": "a6330a8ba2e3f174fb6c489100cb047ff90b9c9a"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-10-thumb.webp",
+      "uid": "f082fa38d3021754463f32a106e336221ed68f0a"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-12-full.webp",
+      "uid": "3332c2178cddc3a19d91cbe496e065e784b6ea75"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-12-thumb.webp",
+      "uid": "d30ff502bfdfaf5425e315c4c2e13e36220d47d5"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-13-full.webp",
+      "uid": "01c11a6f370d0c339bb3fdaa740fdd79aec2aa3a"
+    },
+    {
+      "path": "src/assets/gallery/exp-tgm-13-thumb.webp",
+      "uid": "dce61efdfd247850e7348bbffca79acdfcc2b288"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-01-full.webp",
+      "uid": "e6830269252ad5218750bc3baa373ff2335f9481"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-01-thumb.webp",
+      "uid": "c22dc8383daba688ce8ff3af090dd12844abfa98"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-02-full.webp",
+      "uid": "a204fdf41d1ad34932324fa20c7464a76fb085b3"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-02-thumb.webp",
+      "uid": "dd4ce7de871243ddcc4fd95021009d3423a65d5e"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-05-full.webp",
+      "uid": "25921744d6ed3e6670ae1bff302d7f5a0af64cae"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-05-thumb.webp",
+      "uid": "cfd426bf01ed442d98b09c43c0c93034301082f1"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-07-full.webp",
+      "uid": "62e4c18276fb7e2eef682f3b094b5dd6f2fe6423"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-07-thumb.webp",
+      "uid": "76dbd715558b94ecf0023eb3192eab1f8db425c7"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-08-full.webp",
+      "uid": "36bf299021e9257ae531de001be3c01247eb1efd"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-08-thumb.webp",
+      "uid": "7985c39cb43e38ee5cbc6fc451b8f824d3c8fbb1"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-12-full.webp",
+      "uid": "d45f9e4dc42b011bcd9527c2cc1e26be6531e340"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-12-thumb.webp",
+      "uid": "bbc9846915078277b5bcefa1b6278c30b529ce07"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-19-full.webp",
+      "uid": "599fe6e68f166749e530785db60b4749984d283b"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-19-thumb.webp",
+      "uid": "5baca9bd2027dc9e413019b9583dcb886ac6962e"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-20-full.webp",
+      "uid": "4556eaa5ee30e238e10234ceff959626e4bb9fcb"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-20-thumb.webp",
+      "uid": "7a7a8d17b42a656380d5e8d87aa3a0718672b798"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-23-full.webp",
+      "uid": "4d3e2595c574bc35e804b2e1789633e255392fb9"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-23-thumb.webp",
+      "uid": "784393283208b9d0cfedff858c15fb1bf863ab04"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-24-full.webp",
+      "uid": "9bf0c273974b5e35b3a12683b382ccad699b5848"
+    },
+    {
+      "path": "src/assets/gallery/exp-thaivi-24-thumb.webp",
+      "uid": "be24ec7446a8c9aea81542e41c33af86f69fa7a1"
+    },
+    {
+      "path": "src/assets/gallery/falcon-01-full.webp",
+      "uid": "31fe82f085988e06991302fb98d704347a71054b"
+    },
+    {
+      "path": "src/assets/gallery/falcon-01-thumb.webp",
+      "uid": "a7d5de789c115389ee0e01af9028c40428b7fd2f"
+    },
+    {
+      "path": "src/assets/gallery/falcon-02-full.webp",
+      "uid": "ed790d034e60f8c87fd8dc02ce7c24a0d0380eb0"
+    },
+    {
+      "path": "src/assets/gallery/falcon-02-thumb.webp",
+      "uid": "e14d373cf771e585ac672386deee879f1cb78baa"
+    },
+    {
+      "path": "src/assets/gallery/falcon-03-full.webp",
+      "uid": "93df5fabc026aea198fa33e84f67ebe31a18cd5b"
+    },
+    {
+      "path": "src/assets/gallery/falcon-03-thumb.webp",
+      "uid": "09fe1438bfb4b730ef59881cede47cf66c5e64ae"
+    },
+    {
+      "path": "src/assets/gallery/falcon-04-full.webp",
+      "uid": "b4e066fa3d3f1e0679e3d4a166feecff163b0e34"
+    },
+    {
+      "path": "src/assets/gallery/falcon-04-thumb.webp",
+      "uid": "567b1c1e06f2723160251698d20c52e2c7d8a68d"
+    },
+    {
+      "path": "src/assets/gallery/falcon-05-full.webp",
+      "uid": "49d4cc4d0f1acc20b1de1f2956c965ea73ce49af"
+    },
+    {
+      "path": "src/assets/gallery/falcon-05-thumb.webp",
+      "uid": "a9318163305436d8711178d9c91737c4e99e61df"
+    },
+    {
+      "path": "src/assets/gallery/falcon-06-full.webp",
+      "uid": "960eac3fd5d0a881cdd4cc9ebc830897b45b292b"
+    },
+    {
+      "path": "src/assets/gallery/falcon-06-thumb.webp",
+      "uid": "f7a9fcf596725c7989726efc25cd984d0436366e"
+    },
+    {
+      "path": "src/assets/gallery/falcon-07-full.webp",
+      "uid": "0903a129fdcd1cab54d7fed6f437970523d4f340"
+    },
+    {
+      "path": "src/assets/gallery/falcon-07-thumb.webp",
+      "uid": "d3bd824677269c93bfe238796da9258c2a2d1cd7"
+    },
+    {
+      "path": "src/assets/gallery/falcon-08-full.webp",
+      "uid": "a651e1bb68ab3f17608fda567aed5055031bf3a7"
+    },
+    {
+      "path": "src/assets/gallery/falcon-08-thumb.webp",
+      "uid": "c9b9238413f0ae26ddfaf8e9bf924adeb570e802"
+    },
+    {
+      "path": "src/assets/gallery/falcon-09-full.webp",
+      "uid": "a86aee085158e31ab32cb6f9edfb250c052ade99"
+    },
+    {
+      "path": "src/assets/gallery/falcon-09-thumb.webp",
+      "uid": "3f421f920e8a5edb399cea2c8157b029ede37ab7"
+    },
+    {
+      "path": "src/assets/gallery/falcon-10-full.webp",
+      "uid": "c691d00ae4d4de379e425dceac72c2ad1439b129"
+    },
+    {
+      "path": "src/assets/gallery/falcon-10-thumb.webp",
+      "uid": "a960706c4dbe7766051a82181bbbe225a35d7797"
+    },
+    {
+      "path": "src/assets/gallery/honda-01-full.webp",
+      "uid": "356f8613b35bbafe8196f3e5846a61ba4f56a040"
+    },
+    {
+      "path": "src/assets/gallery/honda-01-thumb.webp",
+      "uid": "764a783a3ac72d5312c084c0381366c7cb566d26"
+    },
+    {
+      "path": "src/assets/gallery/honda-02-full.webp",
+      "uid": "ad071d30e72367861d55eca2d2481f2ee5db3a6b"
+    },
+    {
+      "path": "src/assets/gallery/honda-02-thumb.webp",
+      "uid": "e8dabd21d4e402b67a4c27276c81341f90d86a5d"
+    },
+    {
+      "path": "src/assets/gallery/honda-03-full.webp",
+      "uid": "739367e43da0965239dfb3810c1a01e374b01df1"
+    },
+    {
+      "path": "src/assets/gallery/honda-03-thumb.webp",
+      "uid": "8aebde68d349bf8ead9e400eb4c1525453a3a53c"
+    },
+    {
+      "path": "src/assets/gallery/honda-04-full.webp",
+      "uid": "83aee8a02233af203f627d84935ba0b216bea215"
+    },
+    {
+      "path": "src/assets/gallery/honda-04-thumb.webp",
+      "uid": "d190dc673db3325e89776556bf75cfbb82d45583"
+    },
+    {
+      "path": "src/assets/gallery/honda-05-full.webp",
+      "uid": "06d334d378ea9cf02aa43b764e4da1462dc40edd"
+    },
+    {
+      "path": "src/assets/gallery/honda-05-thumb.webp",
+      "uid": "a192ac409f33a47ab6886a394f6ffa5cce884082"
+    },
+    {
+      "path": "src/assets/gallery/honda-06-full.webp",
+      "uid": "4f2b80b366f8a0542b8390602dd1e99cfc54ae15"
+    },
+    {
+      "path": "src/assets/gallery/honda-06-thumb.webp",
+      "uid": "48fed850bfad4c13becdabec02ca71e428d7dc5d"
+    },
+    {
+      "path": "src/assets/gallery/honda-07-full.webp",
+      "uid": "0f44de1e1b04aeee6723af1345620a064b665c66"
+    },
+    {
+      "path": "src/assets/gallery/honda-07-thumb.webp",
+      "uid": "93c80230c4cb424c32bc58d801c022e7ecababaf"
+    },
+    {
+      "path": "src/assets/gallery/honda-08-full.webp",
+      "uid": "92fbab1f9e3447469cceda127972b6b9fc95e0df"
+    },
+    {
+      "path": "src/assets/gallery/honda-08-thumb.webp",
+      "uid": "c9f09b8e621e67fe1809286eeba6c9affe62db40"
+    },
+    {
+      "path": "src/assets/gallery/honda-09-full.webp",
+      "uid": "af8a6bbc6e40e75b13d10f836d9615baa83198ed"
+    },
+    {
+      "path": "src/assets/gallery/honda-09-thumb.webp",
+      "uid": "9142b3a3edb0f5ccb4370331033415238c21f1a4"
+    },
+    {
+      "path": "src/assets/gallery/honda-10-full.webp",
+      "uid": "1b6b44ae40583dc6c3430f405b2f23416874d847"
+    },
+    {
+      "path": "src/assets/gallery/honda-10-thumb.webp",
+      "uid": "111bacfe0c3f9be24e3c144aa99e3bfb26bc0fde"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-01-full.webp",
+      "uid": "b9ca3d6bab7b651fa5cd17f8c6486d6a8f6b9204"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-01-thumb.webp",
+      "uid": "050949f11b96e8cf5d6a592c83738ea024b69b5a"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-02-full.webp",
+      "uid": "6550d8e996f5c0fd56a63676c62ba12ac7aa8acf"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-02-thumb.webp",
+      "uid": "4eb5b05eb2c682efcec4da38fe94146c69c37579"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-03-full.webp",
+      "uid": "8f35cfdd9d6a990c6a8fc449bb0a90d9cd58eca3"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-03-thumb.webp",
+      "uid": "f78eb158c8c51fbd2835f2355cf8018fadd1711c"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-04-full.webp",
+      "uid": "95bab16ff0fae6f256ce56800b7cf66b9c48e700"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-04-thumb.webp",
+      "uid": "bf69bd7ff5c0cdf6619761523e1f92e3203679a2"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-05-full.webp",
+      "uid": "77b9a460a84beba60d483a991c017dbb2a07a0d4"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-05-thumb.webp",
+      "uid": "0dd1c860e2704434d2925f93dd96777fca050224"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-06-full.webp",
+      "uid": "cc587adcb392bb3f5943d52b771d1b73ac5cddf3"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-06-thumb.webp",
+      "uid": "5ee366e435d03e2f6675e46152f127ca26c75895"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-07-full.webp",
+      "uid": "b53bed2a9652fe54d29df81844e03089947cbc47"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-07-thumb.webp",
+      "uid": "824397f477b6e8209c76ca336abe24b65ede7059"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-08-full.webp",
+      "uid": "c37fc1cc86abc88548f916418511031d3d530dc9"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-08-thumb.webp",
+      "uid": "cbf8693eaa6ede9e1d37850eb3842b20bafbb698"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-09-full.webp",
+      "uid": "a717b8d923f9087f36532d5c6cb6d507f14a4c37"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-09-thumb.webp",
+      "uid": "71f5720efe7c6b0ced022549f16453f58c8047f4"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-10-full.webp",
+      "uid": "115e9ba38bae26c890c3eb9adbb05a5e9fdd28e8"
+    },
+    {
+      "path": "src/assets/gallery/jasmine-10-thumb.webp",
+      "uid": "3c47b5936b115b923706a3adcefee89e44ae58fb"
+    },
+    {
+      "path": "src/assets/gallery/samsung-01-full.webp",
+      "uid": "d178f4c1a8b312d2399d4c5541a9987f27ca7c18"
+    },
+    {
+      "path": "src/assets/gallery/samsung-01-thumb.webp",
+      "uid": "e044c0668284931bb78c2b2ab307da688d044259"
+    },
+    {
+      "path": "src/assets/gallery/samsung-02-full.webp",
+      "uid": "8337134c3fd2cf4df4ccc4accd157ddda6ff8c0e"
+    },
+    {
+      "path": "src/assets/gallery/samsung-02-thumb.webp",
+      "uid": "d918c50209831ca92b692a20c88fb455c681ca2a"
+    },
+    {
+      "path": "src/assets/gallery/samsung-03-full.webp",
+      "uid": "b305f65a561d77337b99d6111354509eafb0baee"
+    },
+    {
+      "path": "src/assets/gallery/samsung-03-thumb.webp",
+      "uid": "c0d93b31e55079c288381f6c18859a04473c5f07"
+    },
+    {
+      "path": "src/assets/gallery/samsung-04-full.webp",
+      "uid": "690fab713420ce9720363b1eb7f9e8740efb2be5"
+    },
+    {
+      "path": "src/assets/gallery/samsung-04-thumb.webp",
+      "uid": "c413b7073afe766561431af0613b9051790469cd"
+    },
+    {
+      "path": "src/assets/gallery/samsung-05-full.webp",
+      "uid": "18842dcf1f13e885d3ea8e2e6615df88ec28f436"
+    },
+    {
+      "path": "src/assets/gallery/samsung-05-thumb.webp",
+      "uid": "dce05a5903fb23fe24580f74dc9ae8f7526b6612"
+    },
+    {
+      "path": "src/assets/gallery/samsung-06-full.webp",
+      "uid": "34dec5fff8f32aabf54790ab6b8f1f90a3a09481"
+    },
+    {
+      "path": "src/assets/gallery/samsung-06-thumb.webp",
+      "uid": "dbf0f2e844d9263fc36aa8525c7b9c991fdd7bbc"
+    },
+    {
+      "path": "src/assets/gallery/samsung-07-full.webp",
+      "uid": "0eb2b396a8a0c551362f4b41d7f1db9f235d20b6"
+    },
+    {
+      "path": "src/assets/gallery/samsung-07-thumb.webp",
+      "uid": "9a335ed2f2944f0a75069a65379022774d5df538"
+    },
+    {
+      "path": "src/assets/gallery/samsung-08-full.webp",
+      "uid": "2c79c8306ad38c31fdc60c42225b0e7b5dc17c85"
+    },
+    {
+      "path": "src/assets/gallery/samsung-08-thumb.webp",
+      "uid": "2758224365bb4b529d1e5508e52da61217489519"
+    },
+    {
+      "path": "src/assets/gallery/samsung-09-full.webp",
+      "uid": "231ab7bdde1a74d1a437913f61e93a04ce997830"
+    },
+    {
+      "path": "src/assets/gallery/samsung-09-thumb.webp",
+      "uid": "1f63711a930bf8f6f1255c28fdcef8bd51eea2e9"
+    },
+    {
+      "path": "src/assets/gallery/samsung-10-full.webp",
+      "uid": "c1f75ee578850da5232c66d352a02ece25bfc45d"
+    },
+    {
+      "path": "src/assets/gallery/samsung-10-thumb.webp",
+      "uid": "32096a62bcf949afbd6c58a3bfcc1ef89d403bcf"
+    },
+    {
+      "path": "src/assets/gallery/smile-01-full.webp",
+      "uid": "d61de64899755dadbc193e9ace85f93669ca2ca4"
+    },
+    {
+      "path": "src/assets/gallery/smile-01-thumb.webp",
+      "uid": "458d194a45010c71098807747d299882054734d0"
+    },
+    {
+      "path": "src/assets/gallery/smile-02-full.webp",
+      "uid": "6dbce523b7e7971006881487b2fa822943bdcb5a"
+    },
+    {
+      "path": "src/assets/gallery/smile-02-thumb.webp",
+      "uid": "e06a0399bf14b80d09896dfb1b87310f20e43476"
+    },
+    {
+      "path": "src/assets/gallery/smile-03-full.webp",
+      "uid": "b095b561046ebc40d46a9e8abc13c3f099e5877d"
+    },
+    {
+      "path": "src/assets/gallery/smile-03-thumb.webp",
+      "uid": "f9d768d77c42ce54d41c65ce29647a799564e659"
+    },
+    {
+      "path": "src/assets/gallery/smile-04-full.webp",
+      "uid": "1c543c31f1ed3a45028d4aaf604bc5dcc8701964"
+    },
+    {
+      "path": "src/assets/gallery/smile-04-thumb.webp",
+      "uid": "be38005a63d7f9e703e1e809051cfc40f4b2ad58"
+    },
+    {
+      "path": "src/assets/gallery/smile-05-full.webp",
+      "uid": "b74d1e4d5b5c60d57b2e188e50e0953605d17a51"
+    },
+    {
+      "path": "src/assets/gallery/smile-05-thumb.webp",
+      "uid": "e8c39e3b9f3976614ddfa156d282c6aff6114e7b"
+    },
+    {
+      "path": "src/assets/gallery/smile-06-full.webp",
+      "uid": "adcc57e391812c858d5892c3752fa5e2e1bd6b81"
+    },
+    {
+      "path": "src/assets/gallery/smile-06-thumb.webp",
+      "uid": "b2e372ab27401fcc26e608123daf3e71464c46e6"
+    },
+    {
+      "path": "src/assets/gallery/smile-07-full.webp",
+      "uid": "9b9f822931cb88334633716510e46b67666d01da"
+    },
+    {
+      "path": "src/assets/gallery/smile-07-thumb.webp",
+      "uid": "6acfe7230cb547d0a89f929ed9a4ea602d1abf31"
+    },
+    {
+      "path": "src/assets/gallery/smile-08-full.webp",
+      "uid": "b123d91b242e6558b0b4b4a25971cfd42031ff53"
+    },
+    {
+      "path": "src/assets/gallery/smile-08-thumb.webp",
+      "uid": "ff56117fd28fd50541c3381c7186de329f207b2a"
+    },
+    {
+      "path": "src/assets/gallery/smile-09-full.webp",
+      "uid": "643b992a27e0ce28af773f0178db020d98e109a2"
+    },
+    {
+      "path": "src/assets/gallery/smile-09-thumb.webp",
+      "uid": "f79073a89a7ea0c49ca72234a0a11d6e7846e083"
+    },
+    {
+      "path": "src/assets/gallery/smile-10-full.webp",
+      "uid": "377b5714247c45e91a4ca92f52fa0ced28bdc068"
+    },
+    {
+      "path": "src/assets/gallery/smile-10-thumb.webp",
+      "uid": "2edba8c881e78d162314269adad08b43f8fffb76"
+    },
+    {
+      "path": "src/assets/instructor-jedi.png",
+      "uid": "409025f0daad22e66e74ac3b8fb1350fed6d4708"
+    },
+    {
+      "path": "src/assets/limitless-club-logo.png",
+      "uid": "38a06b4b6aa93e4749facafe77c36167c9b0480c"
+    },
+    {
+      "path": "src/assets/og-limitless.png",
+      "uid": "5c5882ac96fd56c50d54849c8036eb697f1ec37e"
+    },
+    {
+      "path": "src/assets/og-signal.png",
+      "uid": "e035d1aeeec4b599477653e053fada4684f611ca"
+    },
+    {
+      "path": "src/assets/og.png",
+      "uid": "3edbe7b4223c2891027fae32a5c2d03a6255fca3"
+    },
+    {
+      "path": "src/assets/workshop-01.jpg",
+      "uid": "77bb745687be800439143a118a3b82450b8ea009"
+    },
+    {
+      "path": "src/assets/workshop-02.jpg",
+      "uid": "8612dfb89bfd34b278a1577d9af0840a4b2be36b"
+    },
+    {
+      "path": "src/assets/workshop-hero-wide.jpg",
+      "uid": "fb82ea6991e3d982888ca5f79c84a6dfee9084fa"
+    },
+    {
+      "path": "src/assets/workshop-proof-wide.jpg",
+      "uid": "1dcb653d1dc5a52a458b922bf55bd17757360334"
+    },
+    {
+      "path": "src/en/assets/client-logos/bts.svg",
+      "uid": "7ed8292d47e07d56a297e3ef3745083f7523bed1"
+    },
+    {
+      "path": "src/en/assets/client-logos/chia-tai.png",
+      "uid": "c2a3cc56d5442088d008336738ac6d0fd0ec2c49"
+    },
+    {
+      "path": "src/en/assets/client-logos/fern.png",
+      "uid": "9cefa528cfde7d7d9b26f02d519530d511701836"
+    },
+    {
+      "path": "src/en/assets/client-logos/jasmine.svg",
+      "uid": "2459331f9328655510d07103cab13efa29af8887"
+    },
+    {
+      "path": "src/en/assets/client-logos/samsung.png",
+      "uid": "67f1653f13324848c57d0daa8cfb905772591294"
+    },
+    {
+      "path": "src/en/assets/client-logos/smile.png",
+      "uid": "f3f6ac39a4566e30e8abdbc8b79e9cb03684cb1b"
+    },
+    {
+      "path": "src/en/assets/client-logos/tgm.svg",
+      "uid": "5935f4ba24fe26b4a260d93cb3857ac8881a7744"
+    },
+    {
+      "path": "src/en/assets/favicon.png",
+      "uid": "154e4afb459110748d3b2ebad941cd5dd0c6baa2"
+    },
+    {
+      "path": "src/en/assets/fonts/IBMThai-Bold.ttf",
+      "uid": "502741df175d39754c4b9190523cceb7c5539cdf"
+    },
+    {
+      "path": "src/en/assets/fonts/IBMThai-Regular.ttf",
+      "uid": "603fcce5c2d5900bbe31b6fa17a4881e613bd585"
+    },
+    {
+      "path": "src/en/assets/instructor-jedi.png",
+      "uid": "409025f0daad22e66e74ac3b8fb1350fed6d4708"
+    },
+    {
+      "path": "src/en/assets/limitless-club-logo.png",
+      "uid": "38a06b4b6aa93e4749facafe77c36167c9b0480c"
+    },
+    {
+      "path": "src/en/assets/workshop-01.jpg",
+      "uid": "77bb745687be800439143a118a3b82450b8ea009"
+    },
+    {
+      "path": "src/en/assets/workshop-hero-wide.jpg",
+      "uid": "fb82ea6991e3d982888ca5f79c84a6dfee9084fa"
+    },
+    {
+      "path": "src/en/assets/workshop-proof-wide.jpg",
+      "uid": "1dcb653d1dc5a52a458b922bf55bd17757360334"
+    },
+    {
+      "path": "src/en/assets/Limitless-Corporate-Training-English.pdf",
+      "uid": "be180e26c45d38b0588e4f82fb7eb5c3372fe051"
+    },
+    {
+      "path": "src/en/assets/video/falcon-1-poster.webp",
+      "uid": "9d5741b5d95aa80989445e427fbf2e464ec34aad"
+    },
+    {
+      "path": "src/en/assets/video/falcon-1.mp4",
+      "uid": "01f726fca17c3b10256f30495445410284cb74e4"
+    },
+    {
+      "path": "src/en/assets/video/falcon-2-poster.webp",
+      "uid": "127d128cf484cc7306c1b532c386e920e252bd82"
+    },
+    {
+      "path": "src/en/assets/video/falcon-2.mp4",
+      "uid": "d9f2ef1d05e343dce6c9d0bc50b9e1337c206728"
+    },
+    {
+      "path": "src/en/assets/video/falcon-3-poster.webp",
+      "uid": "2aae2a646b92e8bf3b75134c7e4deb9327230a7c"
+    },
+    {
+      "path": "src/en/assets/video/falcon-3.mp4",
+      "uid": "961faa07b5657a24b62549aa8776e0e39668e0b1"
+    },
+    {
+      "path": "src/en/assets/video/falcon-4-poster.webp",
+      "uid": "8c13455321fa607b66e737787e5ff94cb358b016"
+    },
+    {
+      "path": "src/en/assets/video/falcon-4.mp4",
+      "uid": "b5f87333c957da922ab7309f610bccd1739d9ef0"
+    },
+    {
+      "path": "src/en/cases/falcon.html",
+      "uid": "bdab6e95b0dda367215f5e8dd162f3b6f6ad7ef1"
+    },
+    {
+      "path": "src/en/client-voices.css",
+      "uid": "19dd4e8c0614acd0e8c0630aac860af998d23d42"
+    },
+    {
+      "path": "src/en/executive-brief.css",
+      "uid": "6621bbdf60c064cd93e0d0aaff05f084463bb5e7"
+    },
+    {
+      "path": "src/en/executive-brief.html",
+      "uid": "b2d36f009ebf2332030569e8b538c153844b688a"
+    },
+    {
+      "path": "src/en/executive-brief.js",
+      "uid": "0283c55731ff16bd954ca3807f7b7e98fc9a18ff"
+    },
+    {
+      "path": "src/en/gallery.css",
+      "uid": "59d13add57f6c0d0a51b80cf870c4e0dc14f98f7"
+    },
+    {
+      "path": "src/en/gallery.js",
+      "uid": "7592107649b9124105f7db73dd7c3bed3b3a3f13"
+    },
+    {
+      "path": "src/en/index.html",
+      "uid": "b94496e68059c3d4b3a5bf6ee744f89875a33fc5"
+    },
+    {
+      "path": "src/en/styles.css",
+      "uid": "a3fe6e06bc38c273616455f4bb73e0a621297a70"
+    },
+    {
+      "path": "src/executive-brief.css",
+      "uid": "6621bbdf60c064cd93e0d0aaff05f084463bb5e7"
+    },
+    {
+      "path": "src/executive-brief.html",
+      "uid": "614fbea8209043e60d71c1d60e69f47e66786c0a"
+    },
+    {
+      "path": "src/executive-brief.js",
+      "uid": "c7ddd62f4ca224729c2e5371e6853b85a06d6d67"
+    },
+    {
+      "path": "src/gallery.css",
+      "uid": "9a3fd6f90c672d6dad02054d127bb6d7adcf6e91"
+    },
+    {
+      "path": "src/gallery.js",
+      "uid": "0ea7de91f83a22dce6cfa74dd24a0a012e2b36c9"
+    },
+    {
+      "path": "src/index.html",
+      "uid": "856d1729ac35f22e0ce2351cfb01b0cec417d7a7"
+    },
+    {
+      "path": "src/output/pdf/Limitless-Corporate-AI-Training-Executive-Brief.pdf",
+      "uid": "73b00c0a46f7cd0fb245faf03d8a6319894a708c"
+    },
+    {
+      "path": "src/styles.css",
+      "uid": "86bf0ad6080707dcb72774a7fde1e8db101330b0"
+    }
+  ],
+  "recovered": 388,
+  "errors": []
+}
