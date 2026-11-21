@@ -3,7 +3,7 @@
 .client-logos__inner{max-width:1200px;margin:auto}
 .client-logos h2{font-size:clamp(25px,3vw,38px);font-weight:500;line-height:1.4;margin:0 0 12px}
 .client-logos__lead{color:#697078;font-size:14px;margin:0 0 30px}
-.client-logos__grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:12px}
+.client-logos__grid{display:grid;grid-template-columns:repeat(9,minmax(0,1fr));gap:12px}
 .client-logos__item{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;min-height:140px;padding:18px 12px;background:#fff;border:1px solid #e3dfd6;text-decoration:none;color:#667080;transition:border-color .2s}
 .client-logos__item:hover,.client-logos__item:focus-visible{border-color:#a48650}
 .client-logos__item img{width:100%;max-width:150px;height:64px;object-fit:contain}
@@ -11,8 +11,8 @@
 .client-logos__item span{font-size:10px;line-height:1.4;text-align:center}
 .training-gallery__company h3{scroll-margin-top:110px}
 .training-gallery__company--new .training-gallery__photo{aspect-ratio:3/4}
-@media(max-width:1000px){.client-logos__grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
-@media(max-width:760px){.client-logos{padding:44px 20px}.client-logos__grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.client-logos__item{min-height:118px;padding:14px 12px}.client-logos__item img{height:54px}}
+@media(max-width:1000px){.client-logos__grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:760px){.client-logos{padding:44px 20px}.client-logos__grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.client-logos__item{min-height:118px;padding:14px 12px}.client-logos__item img{height:54px}}
 .training-gallery{background:#f4f2ed;color:#071a3b;padding:88px 40px;scroll-margin-top:90px}
 .training-gallery__inner{max-width:1200px;margin:auto}
 .training-gallery__intro{display:grid;grid-template-columns:1.3fr 1fr;gap:64px;align-items:end;margin-bottom:36px}
