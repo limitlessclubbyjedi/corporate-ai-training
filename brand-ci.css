@@ -1,0 +1,96 @@
+/* Limitless CI v1.3. Visual skin only: original layout and breakpoints stay in styles.css. */
+@font-face {
+  font-family: "Archivo";
+  src: url("assets/fonts/brand/Archivo.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Noto Sans Thai";
+  src: url("assets/fonts/brand/NotoSansThai.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+:root {
+  --font-thai: "Noto Sans Thai";
+  --font-body: "Archivo";
+  --font-display: "Archivo";
+  --navy: #16233F;
+  --navy-2: #3A3D42;
+  --ink: #0B0B0C;
+  --paper: #F4F5F6;
+  --white: #F4F5F6;
+  --orange: #99A64B;
+  --citron: #D7D9DC;
+  --cobalt: #16233F;
+  --muted: #555A61;
+  --line: #D7D9DC;
+  --line-light: rgba(215, 217, 220, .24);
+  --accent-ink: #58632A;
+}
+html[lang="en"] { --font-thai: "Archivo"; }
+h1, h2, h3 { font-family: "Archivo", "Noto Sans Thai", sans-serif; }
+.site-header { background: var(--paper); border-bottom-color: var(--line); backdrop-filter: none; }
+.site-header nav a::after { background: var(--navy); }
+.hero { background: var(--ink); }
+.hero::before {
+  background: linear-gradient(90deg, rgba(11,11,12,.98) 0%, rgba(11,11,12,.93) 42%, rgba(11,11,12,.58) 68%, rgba(11,11,12,.18) 100%);
+}
+.hero .signal-label, .hero__system-label { color: var(--grey, #D7D9DC); }
+.hero__system-label { border-color: #D7D9DC; background: rgba(11,11,12,.62); }
+.hero h1 strong { color: #D7D9DC; }
+.button--signal { background: var(--navy); border-color: var(--navy); color: var(--paper); }
+.hero .button--signal { background: var(--paper); border-color: var(--paper); color: var(--ink); }
+.hero__signal-line { background: #3A3D42; color: var(--paper); }
+.hero__signal-line i { background: #D7D9DC; }
+.hero__outcomes { background: var(--paper); color: var(--ink); }
+.hero__outcomes > * { border-color: var(--line); }
+.hero__outcomes span { color: #3A3D42; }
+.hero__outcomes b { color: var(--accent-ink); }
+.ceo-system-band, .training-video, .method-section,
+.proof-section, .fee-section, .contact-section, footer { background: var(--ink); }
+.ceo-system-band__copy p { color: var(--paper); }
+.ceo-system-band .signal-label, .training-video .signal-label { color: #99A64B; }
+.training-video__player { background: var(--ink); }
+.training-video__player::before { background: #99A64B; }
+.signal-label--orange, .cost-section__header .signal-label,
+.role-stream b, .scale-flow i, .department-list span, .outcome-list b { color: var(--accent-ink); }
+.metric-runway__lead { background: #D7D9DC; }
+.metric-runway__lead span { color: #3A3D42; }
+.segment button[aria-pressed="true"] { background: var(--navy); border-color: var(--navy); color: var(--paper); }
+.outcome-photo figcaption { background: var(--paper); color: var(--ink); }
+.faq-list summary::after { background: var(--navy); color: var(--paper); }
+.mobile-cta { background: var(--navy); color: var(--paper); }
+.cost-section { background: #D7D9DC; }
+.lang-switch { border-color: #D7D9DC; }
+.lang-switch:hover { background: #D7D9DC; }
+/* Preserve the existing gallery, photo crops, logos and all lightbox controls. */
+.client-logos, .training-gallery { background: var(--paper); color: var(--navy); border-color: #D7D9DC; }
+.client-logos__item { background: #FFFFFF; border-color: #D7D9DC; color: #3A3D42; }
+.client-logos__item[href="#gallery-tgm"] { background: var(--navy); color: var(--paper); }
+.client-logos__item:hover, .client-logos__item:focus-visible { border-color: var(--navy); }
+.client-logos__lead, .training-gallery__lead p,
+.training-gallery__lead .training-gallery__hint, .training-gallery__summary,
+.training-gallery__count { color: #555A61; }
+.training-gallery__eyebrow, .training-gallery__industry { color: #3A3D42; }
+.training-gallery__toolbar, .training-gallery__next { border-color: #D7D9DC; }
+.training-gallery__filters button { color: var(--navy); border-color: #D7D9DC; }
+.training-gallery__filters button[aria-pressed="true"] { background: var(--navy); border-color: var(--navy); color: var(--paper); }
+.training-gallery__filters button:hover { border-color: var(--navy); }
+.training-gallery__photo { background: #D7D9DC; }
+.training-gallery__enlarge { background: rgba(11,11,12,.8); }
+.training-gallery__next { color: var(--navy); }
+.training-gallery a:focus-visible, .training-gallery button:focus-visible { outline-color: var(--navy); }
+.gallery-viewer { background: var(--ink); border-color: #555A61; }
+.gallery-viewer::backdrop { background: rgba(11,11,12,.94); }
+.gallery-viewer__stage, .gallery-viewer__error { background: var(--ink); }
+.gallery-viewer button { border-color: #555A61; }
+.gallery-viewer button:hover { background: #3A3D42; }
+.gallery-viewer button:focus-visible { outline-color: #99A64B; }
+@media (max-width: 760px) {
+  .hero::before {
+    background: linear-gradient(180deg, rgba(11,11,12,.99) 0%, rgba(11,11,12,.94) 53%, rgba(11,11,12,.56) 78%, rgba(11,11,12,.35) 100%);
+  }
+}

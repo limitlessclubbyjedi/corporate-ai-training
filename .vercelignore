@@ -1,1 +1,7 @@
 tmp/
+.git/
+review/
+README.md
+RECOVERY-*
+LIVE-VERIFICATION.json
+PREVIEW.md
