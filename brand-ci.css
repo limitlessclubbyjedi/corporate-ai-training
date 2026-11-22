@@ -94,3 +94,21 @@ h1, h2, h3 { font-family: "Archivo", "Noto Sans Thai", sans-serif; }
     background: linear-gradient(180deg, rgba(11,11,12,.99) 0%, rgba(11,11,12,.94) 53%, rgba(11,11,12,.56) 78%, rgba(11,11,12,.35) 100%);
   }
 }
+
+/* Tool identities from the online-class reference; existing sections unchanged. */
+.teaching-tools { background: var(--paper); color: var(--ink); border-bottom: 1px solid var(--line); padding: 32px clamp(18px, 5vw, 70px); }
+.teaching-tools__inner { max-width: var(--page); margin: 0 auto; display: flex; align-items: center; gap: 36px; }
+.teaching-tools__heading { flex: 0 1 300px; }
+.teaching-tools__heading h2 { margin: 0 0 6px; font-size: 22px; line-height: 1.4; }
+.teaching-tools__heading p { margin: 0; color: var(--muted); font-size: 16px; }
+.teaching-tools__list { flex: 1; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; list-style: none; padding: 0; margin: 0; }
+.teaching-tools__list li { display: flex; align-items: center; gap: 12px; font-size: 18px; font-weight: 600; line-height: 1.4; }
+.teaching-tools__list img { width: 44px; height: 44px; flex: 0 0 44px; object-fit: contain; }
+@media (max-width: 1100px) {
+  .teaching-tools__inner { display: block; }
+  .teaching-tools__heading { margin-bottom: 24px; }
+}
+@media (max-width: 600px) {
+  .teaching-tools__list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 16px; }
+  .teaching-tools__list li { flex-direction: column; align-items: flex-start; gap: 10px; }
+}
