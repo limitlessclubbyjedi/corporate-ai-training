@@ -1,0 +1,33 @@
+{
+  "purpose": "Tool identification for Corporate AI Training. Reused unchanged from the Limitless online class website at Note\u2019s request; not sponsor logos.",
+  "sources": [
+    {
+      "name": "claude",
+      "url": "https://claude.com/icon.svg",
+      "sha256": "b150888bc7257af83e3b85d3c2be4294f88986026f8168f6c12fc1fde6697350",
+      "retrieved": "2026-11-22T03:34:30.081Z"
+    },
+    {
+      "name": "openai",
+      "url": "https://openai.com/favicon.svg",
+      "sha256": "ed615b8fd9703863918daae6106396a42926fd167abc1bcad4aca860ff0f7ba6",
+      "retrieved": "2026-11-22T03:34:30.161Z"
+    },
+    {
+      "name": "hermes-agent",
+      "file": "hermes-agent.png",
+      "url": "https://web-assets.nousresearch.com/marketing/583113a9ab48fe4a6dc125cf7226c9d50e658bf0/assets/hermes-agent/icon.png",
+      "note": "Official icon linked from https://hermes-agent.nousresearch.com/",
+      "sha256": "5fbced606189c9bfc2925a16f8903333041cabbf1f8699fe9fe9b3e24504048f",
+      "retrieved": "2026-11-22T04:57:06.635Z"
+    },
+    {
+      "name": "grokbot",
+      "file": "grokbot.svg",
+      "url": "https://x.ai/bot",
+      "note": "Official inline svg.grok-bot-mark, paths unchanged; CSS head foreground and eye background resolved to static black/white for local SVG delivery.",
+      "sha256": "9b8fdab0565e43e971c31e860455780b12f55e453a69a7efa26090d6335bbd91",
+      "retrieved": "2026-11-22T04:57:06.637Z"
+    }
+  ]
+}
