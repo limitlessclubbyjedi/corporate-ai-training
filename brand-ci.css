@@ -112,3 +112,5 @@ h1, h2, h3 { font-family: "Archivo", "Noto Sans Thai", sans-serif; }
   .teaching-tools__list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 16px; }
   .teaching-tools__list li { flex-direction: column; align-items: flex-start; gap: 10px; }
 }
+
+.jas-story-link{display:inline-block;margin-top:10px;color:var(--brand-cobalt,#1f3767);font-size:15px;font-weight:600;text-underline-offset:4px}
