@@ -1,12 +1,23 @@
-# Corporate Training — CI v1.3 preview
+# Corporate Training — approved five-point preview, 24 November 2026
 
-Preview: https://limitless-corporate-training-fkyco3c6l-limitless-team.vercel.app/
-Production (unchanged): https://corporate-ai-training-seven.vercel.app/
+Preview: https://limitless-corporate-training-9vkmwn16s-limitless-team.vercel.app/
+English: https://limitless-corporate-training-9vkmwn16s-limitless-team.vercel.app/en/
+Production remains unchanged: https://corporate-ai-training-seven.vercel.app/
 
-Source baseline: current production deployment dpl_7YGX5hxQxy7a4C12A7uFqMAHnAx1, recovered and verified against all 394 Vercel source files on 22 November 2026. This baseline is newer than the previous repository main.
+Based on production/GitHub main 4ac39ba416169cb9db9c73ef00c1433bda991639, preserving the newer AI Transformation menu and JAS links. Note authorized these changes for PREVIEW ONLY.
 
-Scope: keep the existing layout, photos, prices, curriculum, links and scripts. Apply the approved charcoal/paper/navy Limitless CI v1.3 skin through brand-ci.css, with locally bundled Archivo and Noto Sans Thai (OFL files included). Add one supporting Claude teaching-tool sentence on each TH/EN landing page. No course rebranding.
+Changes:
+- Direct LINE OA link https://line.me/R/ti/p/@JEDITRINUPAB on Thai/English landing pages and executive briefs; main CTA guidance asks visitors to send CORP. No automatic message submission.
+- Both six-page downloadable PDFs now use the same LINE link. English PDF website link points to the current /en/ landing page. All 12 rendered pages and extracted text were compared identical before/after; only link destinations changed.
+- Thai canonical/og:url/og:image/twitter:image use the actual production domain. English metadata was already correct and is preserved.
+- Nine existing logos retained; nine names already present in the gallery/experience copy added to the same client section. Training and speaking events are labelled as experience, without new claims or albums.
+- Limitless Letters signup and six related footer links added in both languages.
 
-Verification: HTML body is byte-identical to the current baseline after removing the single added Claude sentence and line break. Original styles.css and en/styles.css and gallery JavaScript are unchanged. Existing image assets are unchanged. Preview TH/EN, stylesheet and fonts return HTTP 200. External Chrome viewport checks at 1440, 390 and 320px found no page-level horizontal overflow. Verified gallery filter/enlargement, calculator 15-person scenario (1,800h/year, THB900,000/year), FAQ expansion, language navigation and contact anchor. No form submission or physical-device test. Production HTML remains byte-identical to baseline.
+Verification:
+- Chrome using the previously authorized isolated external Google Chrome fallback: Thai/English at 1440, 390 and 320px; no page overflow or page errors. Client logos decode successfully. LINE CTA opens Add LINE friend; newsletter CTA opens Subscribe to Limitless Letters. No LINE message or newsletter signup submitted.
+- Calculator and brief scenario transfer verified (15 people → 1,800 hours/year); brief fee tiers 15/30/>30 verified.
+- Coach/proof, gallery, fee sections and inline calculator scripts unchanged. Existing PDF page appearance/text unchanged.
+- All changed public files and PDFs return HTTP 200, match source and include X-Robots-Tag: noindex, nofollow. Production TH/EN hashes unchanged.
+- Mobile checks use Chrome viewport simulation, not physical phones.
 
-Release: Note approved this preview for production on 22 November 2026. The preview-only X-Robots-Tag setting has been removed. This release changes no visual code relative to the approved preview. Future changes need their own authorization. Other linked documents/subpages retain their original design.
+Release boundary: do not merge to main, promote this deployment or change production aliases until Note separately approves production. Preview-only noindex remains in vercel.json; decide production indexing separately at release. No other websites changed.
