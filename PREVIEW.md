@@ -2,9 +2,9 @@
 
 Preview: https://limitless-corporate-training-9vkmwn16s-limitless-team.vercel.app/
 English: https://limitless-corporate-training-9vkmwn16s-limitless-team.vercel.app/en/
-Production remains unchanged: https://corporate-ai-training-seven.vercel.app/
+Production URL: https://corporate-ai-training-seven.vercel.app/
 
-Based on production/GitHub main 4ac39ba416169cb9db9c73ef00c1433bda991639, preserving the newer AI Transformation menu and JAS links. Note authorized these changes for PREVIEW ONLY.
+Based on production/GitHub main 4ac39ba416169cb9db9c73ef00c1433bda991639, preserving the newer AI Transformation menu and JAS links. Note initially authorized preview only and subsequently explicitly approved pushing to GitHub main and deploying to Vercel production on 24 November 2026.
 
 Changes:
 - Direct LINE OA link https://line.me/R/ti/p/@JEDITRINUPAB on Thai/English landing pages and executive briefs; main CTA guidance asks visitors to send CORP. No automatic message submission.
@@ -20,4 +20,4 @@ Verification:
 - All changed public files and PDFs return HTTP 200, match source and include X-Robots-Tag: noindex, nofollow. Production TH/EN hashes unchanged.
 - Mobile checks use Chrome viewport simulation, not physical phones.
 
-Release boundary: do not merge to main, promote this deployment or change production aliases until Note separately approves production. Preview-only noindex remains in vercel.json; decide production indexing separately at release. No other websites changed.
+Release authorized on 24 November 2026. Restore vercel.json to the prior production configuration ({}), preserving production indexing behavior rather than shipping the preview-only noindex header. The existing immutable preview keeps its noindex protection. Release scope is Corporate Training Thai/English pages and the two PDFs only; no other websites changed. Production verification is recorded in the project delivery log after deployment.
